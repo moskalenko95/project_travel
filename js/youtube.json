@@ -1,0 +1,30 @@
+{
+  "video1":{
+    "id": "0",
+    "src": "https://www.youtube.com/embed/L14nXRxJILg"
+  },
+  "video2":{
+    "id": "1",
+    "src": "https://www.youtube.com/embed/piBz3QoHplg"
+  },
+  "video3":{
+    "id": "2",
+    "src": "https://www.youtube.com/embed/W3sTWU7LYqY"
+  },
+  "video4":{
+    "id": "3",
+    "src": "https://www.youtube.com/embed/s6LhRD-2gCQ"
+  },
+  "video5":{
+    "id": "4",
+    "src": "https://www.youtube.com/embed/W0XQxXqoWo8"
+  },
+  "video6":{
+    "id": "5",
+    "src": "https://www.youtube.com/embed/sweBWLPOD-4"
+  },
+  "video7":{
+    "id": "6",
+    "src": "https://www.youtube.com/embed/Q53wmRxJtJw"
+  }
+}

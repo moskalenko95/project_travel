@@ -1,0 +1,40 @@
+{
+    "img1":{
+      "src": "img/gallery/img0.jpg"
+    },
+    "img2":{
+      "src": "img/gallery/img1.jpg"
+    },
+    "img3":{
+      "src": "img/gallery/img2.jpg"
+    },
+    "img4":{
+      "src": "img/gallery/img3.jpg"
+    },
+    "img5":{
+      "src": "img/gallery/img4.jpg"
+    },
+    "img6":{
+      "src": "img/gallery/img5.jpg"
+    },
+    "img7":{
+      "src": "img/gallery/img6.jpg"
+    },
+    "img8":{
+      "src": "img/gallery/img7.jpg"
+    },
+    "img9":{
+      "src": "img/gallery/img8.jpg"
+    },
+    "img10":{
+      "src": "img/gallery/img9.jpg"
+    },
+    "img11":{
+      "src": "img/gallery/img10.jpg"
+    },
+    "img12":{
+      "src": "img/gallery/img11.jpg"
+    }
+
+
+}
